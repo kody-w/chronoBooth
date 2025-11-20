@@ -1,0 +1,7 @@
+{
+  "name": "ChronoBooth: Time Travel Selfies",
+  "description": "A photo booth app that uses Gemini to analyze your photo and transport you into historical eras or futuristic scenes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
